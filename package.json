@@ -1,0 +1,18 @@
+{
+  "name": "chatbot-messenger",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@dongdev/fca-unofficial": "",
+    "chalk": "^4.1.2",
+    "moment-timezone": "^0.5.45",
+    "node-cron": "^4.2.1",
+    "sqlite3": "^5.1.7",
+    "string-similarity": "^4.0.4",
+    "youtube-search-api": "^2.0.1"
+  }
+}

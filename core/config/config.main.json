@@ -1,0 +1,20 @@
+{
+  "devMode": false,
+  "operator-prefix": true,
+  "theme": "rainbow",
+  "prefix": "K-",
+  "name": "Vynix",
+  "operators": ["100090458979503"],
+  "admins": ["100090458979503"],
+  "options": {
+    "selfListen": false,
+    "listenEvents": true,
+    "listenTyping": false,
+    "updatePresence": false,
+    "forceLogin": false,
+    "autoReconnect": true,
+    "online": false,
+    "emitReady": false,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.141 Safari/537.36"
+  }
+}
